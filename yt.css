@@ -89,11 +89,13 @@
   .menu1:hover {
     background-color: #adb5bd;
     transition: 0.4s;
+    cursor: pointer;
   }
   .filter p:hover {
     color: white;
     background-color: #343a40;
     transition: 0.5s;
+    cursor: pointer;
   }
 }
 
